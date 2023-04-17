@@ -27,7 +27,7 @@ const Services = () => {
         <span style={{ color: darkMode ? "white" : "" }}>Let me introduce</span>
         <span>Myself!!</span>
         <spane font="bold">
-          My name is Ayush.I am from bokaro steel City (Jharkhand).Currently persuing B.Tech in computer Science and engineering.<br></br>
+          My name is Ayush.I am from Bokaro Steel City (Jharkhand).Currently persuing B.Tech in computer Science and engineering.<br></br>
           <br />
          I am proficient in Python ,C and C++.<br></br>
          <br/>
